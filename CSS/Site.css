@@ -1,0 +1,61 @@
+body
+{
+	margin:0 0 0 0;
+}
+#frame
+{
+	background-color:gray;
+	text-align:center;
+	padding-left:200px;
+	padding-right:200px;
+}
+#searchBar
+{
+	float:right;
+	padding-right:20px;
+	clear:both;
+}
+form 
+{
+	margin:0 0 0 0;
+}
+#navigation
+{
+	clear:both;
+}
+#page 
+{
+	margin-left:auto;
+	margin-right:auto;
+	background-color:lightgray;
+}
+#header
+{
+	font-size:35px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+#title
+{
+	font-size:24px;
+}
+#page
+{
+
+}
+#footer
+{
+	font-size:8px;
+	padding-top:25px;
+}
+.hidden {
+    display:none;
+}
+tr:nth-child(2n+1) {
+    background-color:gray;
+}
+.error
+{
+	color:red; 
+	font-size:24px;
+}
